@@ -1,0 +1,312 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: bc-ieo\n"
+"POT-Creation-Date: 2017-03-10 10:59-0300\n"
+"PO-Revision-Date: 2017-03-10 10:59-0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;_e;_x;__;esc_html_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../bc-multi-currency.php:73
+msgid "Payment Details"
+msgstr "Detalles del Pago"
+
+#: ../bc-multi-currency.php:75
+msgid "Payment made by viewing site in currency"
+msgstr "Pago realizado visualizando sitio en moneda"
+
+#: ../bc-multi-currency.php:77
+msgid "Not rounded"
+msgstr "No redondeado"
+
+#: ../bc-multi-currency.php:79
+msgid "Rounded"
+msgstr "Redondeado"
+
+#: ../bc-multi-currency.php:309
+msgid "Original price:"
+msgstr "Precio Original"
+
+#: ../includes/plugin_options.php:14
+msgid "Settings"
+msgstr "Configuración"
+
+#: ../includes/plugin_options.php:22
+msgid "Open Exchange API Key"
+msgstr "Open Exchange API Key"
+
+#: ../includes/plugin_options.php:37
+msgid "Woocommerce custom currencies:"
+msgstr "Woocommerce Monedas Customizadas"
+
+#: ../includes/plugin_options.php:54
+msgid "Geolocate by IP"
+msgstr "Geolocalización por IP"
+
+#: ../includes/plugin_options.php:67
+msgid "Geolocate Rules"
+msgstr "Reglas de geolocalización "
+
+#: ../includes/plugin_options.php:80
+msgid "Geolocate Force IP Test"
+msgstr "Forzar IP de testeo"
+
+#: ../includes/plugin_options.php:161
+msgid "Insert your Open Exchange Api Key [*]. Get one here:"
+msgstr "Inserta tu Clave para la API de Open Exchange [*]. Obten una aqui:"
+
+#: ../includes/plugin_options.php:164
+msgid ""
+"* Free Forever Plan offers hourly updates, with USD base and up to 1,000 "
+"requests/month."
+msgstr ""
+"* Plan Gratis para siempre ofrece actualizaciones a cada hora, usando USD "
+"como base y hasta 1000 pedidos/mes."
+
+#: ../includes/plugin_options.php:183
+msgid ""
+"You can use this to ADD currencies or to REPLACE existing ones, be carefull, "
+"you should not change currency codes, for example USD, must be USD in order "
+"to make payments to work :)."
+msgstr ""
+"Puedes usar esto para AGREGAR monedas o para REMPLAZAR las existentes, ten "
+"cuidado, no debes cambiar los códigos de las monedas, por ej. USD, debe ser "
+"USD para poder realizar los procesos de pago :)."
+
+#: ../includes/plugin_options.php:185
+msgid ""
+"If you plan to ADD a new one, you should use a real currency code. Symbol "
+"and Description could change without problem."
+msgstr ""
+"Si planeas AGREGAR una nueva moneda que no existe, debes utilizar un código "
+"verdadero. El Símbolo y la Descripción pueden ser cambiados."
+
+#: ../includes/plugin_options.php:201
+msgid "Enable Geolocation."
+msgstr "Activar Geolocalización"
+
+#: ../includes/plugin_options.php:215
+msgid "Insert one rule per line using this format:"
+msgstr "Insertar una regla por línea usando el siguiente formato:"
+
+#: ../includes/plugin_options.php:232
+msgid "Not valid IP number, try new one. "
+msgstr "IP no válido, intenta con otro."
+
+#: ../includes/plugin_options.php:240
+msgid ""
+"Insert some IP and force detection/currency switch on load. (For testings)"
+msgstr ""
+"Insertar una IP válida para forzar la detección de moneda y cambiar "
+"automaticamente al cargar la página."
+
+#: ../includes/plugin_options.php:259
+msgid "BC Multi Currency"
+msgstr "BC Multiples Monedas"
+
+#: ../includes/plugin_options.php:277
+msgid "Settings Saved"
+msgstr "Configuración guardada"
+
+#: ../includes/plugin_options.php:303
+msgid "Woocommerce Running"
+msgstr "Woocommerce Instalado"
+
+#: ../includes/plugin_shortcode.php:26
+#, php-format
+msgid ""
+"%s: Widget class not found. Make sure this widget exists and the class name "
+"is correct"
+msgstr ""
+"%s: No se encontró la clase Widget. Asegúrese de que este widget existe y el "
+"nombre de la clase es correcto"
+
+#: ../includes/plugin_widget.php:20
+msgid "Switch between currencies widget."
+msgstr "Widget para cambiar entre monedas"
+
+#: ../includes/plugin_widget.php:22
+msgid "BC Multi Currency Widget"
+msgstr "BC Multiples Monedas Widget"
+
+#: ../includes/plugin_widget.php:73
+msgid "Reset"
+msgstr "Resetear"
+
+#: ../includes/plugin_widget.php:98
+msgid "Title:"
+msgstr "Titulo:"
+
+#: ../includes/plugin_widget.php:99
+msgid "Currency converter"
+msgstr "Convertir moneda"
+
+#: ../includes/plugin_widget.php:101
+msgid "Currency codes:"
+msgstr "Códigos de moneda:"
+
+#: ../includes/plugin_widget.php:101
+msgid "1 per line"
+msgstr "1 por línea"
+
+#: ../includes/plugin_widget.php:105
+msgid "Widget message:"
+msgstr "Mensaje"
+
+#: ../includes/plugin_widget.php:109
+msgid "Show reset link:"
+msgstr "Mostrar Resetear"
+
+#~ msgid "Import & Export Options"
+#~ msgstr "Importar & Exportar Opciones"
+
+#~ msgid "About this tool"
+#~ msgstr "Acerca de esta herramienta"
+
+#~ msgid "Plugin version: "
+#~ msgstr "Versión del plugin: "
+
+#~ msgid ""
+#~ "This plugins is under development, if you find bugs, problems, doubts, "
+#~ "anything, just contact me here: roberto@rgdesign.org."
+#~ msgstr ""
+#~ "Este plugin está bajo desarrollo, si encuentras algún fallo, problema, "
+#~ "dudas, lo que sea, solo contacta aquí: roberto@rgdesign.org."
+
+#~ msgid "Thanks :)!"
+#~ msgstr "Gracias :)!"
+
+#~ msgid "Quick links"
+#~ msgstr "Enlaces rápidos"
+
+#~ msgid "Back to Main page"
+#~ msgstr "Volver a la pagina principal"
+
+#~ msgid "Export All Options"
+#~ msgstr "Exportar todas las opciones"
+
+#~ msgid "Export ACF Options"
+#~ msgstr "Exportar opciones ACF"
+
+#~ msgid "Import Options"
+#~ msgstr "Importar Opciones"
+
+#~ msgid "Export Options"
+#~ msgstr "Exportar Opciones"
+
+#~ msgid ""
+#~ "This tool Exports <b>ONLY OPTIONS</b> from the 'options' database table."
+#~ msgstr ""
+#~ "Esta herramienta exporta <b>SOLO OPCIONES</b> de la tabla 'options' de la "
+#~ "base de datos."
+
+#~ msgid "Export"
+#~ msgstr "Exportar"
+
+#~ msgid ""
+#~ "You can choose to export all options, select by plugin (ex: only ACF "
+#~ "options, only Woocommerce options), or select just the ones you need. A "
+#~ "JSON file will be created with those options and their values."
+#~ msgstr ""
+#~ "Puedes elegir exportar todas las opciones, seleccionar por plugin (ej: "
+#~ "solo opciones de ACF, solo de Woocommerce), o seleccionar las que "
+#~ "quieras. Un archivo JSON será creado con esas opciones y sus valores."
+
+#~ msgid "Export ALL Options"
+#~ msgstr "Exportar todas las opciones"
+
+#~ msgid "Export <b>ACF</b> Options Only"
+#~ msgstr "Exportar opciones <b>ACF</b> solamente"
+
+#~ msgid "Import"
+#~ msgstr "Importar"
+
+#~ msgid ""
+#~ "Take the JSON file and Import (using this tool) into another WP install. "
+#~ "You can also use this as a backup for those options, or as an options "
+#~ "starter for some particular options you choose. You can even edit the "
+#~ "JSON file to quickly import (and update) some, or all, options already "
+#~ "created"
+#~ msgstr ""
+#~ "Toma el archivo JSON generado e importalo (usando esta herramienta) en "
+#~ "otra instalación de WP. Puedes también usar esto como un backup para esas "
+#~ "opciones, o como un archivo para empezar otro proyecto con esas opciones. "
+#~ "Puedes incluso editar el archivo JSON para rapidamente hacer un import y "
+#~ "actualizar las opciones o crearlas si no existen."
+
+#~ msgid "Go to the Import Options Page"
+#~ msgstr "Ir a la pagina de Importar Opciones"
+
+#~ msgid ""
+#~ "A JSON file will be created with all the option names and values saved "
+#~ "for this setup, this options do NOT include post, post types, pages, "
+#~ "menus, widgets, comments and so on."
+#~ msgstr ""
+#~ "Un archivo JSON será creado con todas las opciones, nombres y valores, "
+#~ "guardadas en esta instalacion, estas opcines NO incluyen contenido de "
+#~ "posts, post types, pages, menus, widgets, comments, etc."
+
+#~ msgid ""
+#~ "This export file is only intended to use with the Import Options feature "
+#~ "also provided."
+#~ msgstr ""
+#~ "Este archivo de exportación esta pensado solo para ser usado con la "
+#~ "herramienta de Importar del plugin."
+
+#~ msgid ""
+#~ "You can choose which options to export and then import on some other "
+#~ "setup, ex, moving from dev to production or cloning some configuration to "
+#~ "another setup."
+#~ msgstr ""
+#~ "Puedes seleccionar que opciones exportar y luego importarlas en otra "
+#~ "instalación, por ej. migrar un sitio en desarrollo a producción, o clonar "
+#~ "las configuraciones guardadas en las opciones a otra instalación."
+
+#~ msgid "Select All"
+#~ msgstr "Seleccionar Todo"
+
+#~ msgid "Unselect All"
+#~ msgstr "Deseleccionar Todo"
+
+#~ msgid "Show unselected"
+#~ msgstr "Mostrar no seleccionados"
+
+#~ msgid "Hidde unselected"
+#~ msgstr "Ocultar no seleccionados"
+
+#~ msgid "Export selected options"
+#~ msgstr "Exportar opciones seleccionadas"
+
+#~ msgid "Something went wrong :(."
+#~ msgstr "Algo no ha marchado bien :(."
+
+#~ msgid "All options where created/updated."
+#~ msgstr "Todas las opciones han sido creadas/actualizadas."
+
+#~ msgid "Invalid file or file size too big."
+#~ msgstr "Archivo no válido o demasiado grande."
+
+#~ msgid "This is the list for all options keys and values imported."
+#~ msgstr "Esta es la lista de todas las opciones y sus valores importados."
+
+#~ msgid "Import Again?"
+#~ msgstr "¿Importar de nuevo?"
+
+#~ msgid "Try Again"
+#~ msgstr "Prueba de nuevo"
+
+#~ msgid "Click Browse button and choose a json file that you backup before."
+#~ msgstr ""
+#~ "Clickea en Seleccionar archivo y elige un archivo JSON previamente "
+#~ "exportado con este plugin."
+
+#~ msgid "Press Import button, Wordpress do the rest for you."
+#~ msgstr "Clickea el boton de Importar, Wordpress se encargará del resto."
