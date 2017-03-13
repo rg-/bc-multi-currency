@@ -1,4 +1,4 @@
-# BC Multi Currency
+# bc-multi-currency
 
 Wordpress plugin to manage currencies.
 
